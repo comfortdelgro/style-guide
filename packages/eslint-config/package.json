@@ -1,6 +1,6 @@
 {
   "name": "@comfortdelgro/eslint-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Comfortdelgro's ESLint configuration preset",
   "keywords": [
     "eslint",
