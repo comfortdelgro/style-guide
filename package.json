@@ -1,0 +1,18 @@
+{
+  "name": "@comfortdelgro/style-guide",
+  "private": true,
+  "description": "Comfortdelgro's engineering style guide",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier -w . --cache",
+    "version": "changeset version && pnpm install --no-frozen-lockfile && pnpm run format"
+  },
+  "prettier": "@comfortdelgro/prettier-config",
+  "devDependencies": {
+    "@changesets/cli": "^2.24.1",
+    "@comfortdelgro/prettier-config": "workspace:*",
+    "prettier": "^2.7.1",
+    "typescript": "^4.7.4"
+  },
+  "packageManager": "pnpm@7.7.0"
+}
