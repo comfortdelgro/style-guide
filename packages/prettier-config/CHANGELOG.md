@@ -1,5 +1,11 @@
 # @comfortdelgro/prettier-config
 
+## 1.0.1
+
+### Patch Changes
+
+- e21f2c3: A patch to trigger a release with GitHub Actions workflow working correctly.
+
 ## 1.0.0
 
 ### Major Changes
