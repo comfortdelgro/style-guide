@@ -1,5 +1,11 @@
 # @comfortdelgro/prettier-config
 
+## 1.0.2
+
+### Patch Changes
+
+- 1c0bd6f: Another patch to trigger GitHub Actions workflow.
+
 ## 1.0.1
 
 ### Patch Changes
